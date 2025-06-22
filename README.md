@@ -1,7 +1,5 @@
-# MMRPGPowerCards
+ # MMRPGPowerCards
 Marvel Multiverse RPG Power Card generator
-![Accuracy 1 face,1](https://github.com/user-attachments/assets/d146bc94-a525-4a7a-a67d-7d8b4a236ac4)
-[Battle Plan face,1](https://github.com/user-attachments/assets/1ca0d1d8-fa37-47b2-a86c-a9d49e0fd365)
 
 # Card!
  Generator for TheGameCrafter
@@ -152,3 +150,6 @@ MIT License - Feel free to modify and distribute
 ## Contributing
 
 Pull requests welcome! This tool was created for tabletop game development but can be adapted for any card-based project.
+
+
+![Accuracy 1 face,1](https://github.com/user-attachments/assets/d146bc94-a525-4a7a-a67d-7d8b4a236ac4)

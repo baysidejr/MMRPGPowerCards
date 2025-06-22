@@ -1,7 +1,10 @@
 # MMRPGPowerCards
 Marvel Multiverse RPG Power Card generator
+![Accuracy 1 face,1](https://github.com/user-attachments/assets/d146bc94-a525-4a7a-a67d-7d8b4a236ac4)
+[Battle Plan face,1](https://github.com/user-attachments/assets/1ca0d1d8-fa37-47b2-a86c-a9d49e0fd365)
 
-# Card Generator for TheGameCrafter
+# Card!
+ Generator for TheGameCrafter
 
 A PowerShell-based tool for generating custom playing cards from markdown data and SVG templates, with automatic conversion to TheGameCrafter-ready PNG files.
 

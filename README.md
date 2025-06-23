@@ -151,5 +151,7 @@ MIT License - Feel free to modify and distribute
 
 Pull requests welcome! This tool was created for tabletop game development but can be adapted for any card-based project.
 
+###NOTE: The convert plain text to Markdown is if you can only pull the powers in plain text. For example from Demiplane if you copy and paste the powers list into a text file.
+
 
 ![Accuracy 1 face,1](https://github.com/user-attachments/assets/d146bc94-a525-4a7a-a67d-7d8b4a236ac4)
